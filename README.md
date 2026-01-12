@@ -23,7 +23,16 @@ calculates score, and displays the final result.
 1. Clone the repository
 2. Open the project in Eclipse
 3. Run `OnlineQuizSystem.java` as Java Application
-4.the sample output is:
+
+
+
+
+
+
+
+
+
+##the sample output is:
 ====================================
    !!ONLINE QUIZ SYSTEM !! 
 ====================================
